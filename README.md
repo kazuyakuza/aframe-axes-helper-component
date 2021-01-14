@@ -1,19 +1,19 @@
-# aframe-arrow-component
-THREE.ArrowHelper class binding for [a-frame](https://aframe.io/).
+# aframe-axes-helper-component
+THREE.AxesHelper class binding for [a-frame](https://aframe.io/).
 ## Usage
 Add following script tag after a-frame script.
 ```
-<script src="http://unpkg.com/aframe-arrow-component/"></script>
+<script src="http://unpkg.com/aframe-axes-helper-component/"></script>
 ```
 or, to use npm, install first.
 ```
-npm i aframe-arrow-component
+npm i aframe-axes-helper-component
 ```
 then link index.js directly
 ```
-<script src="node_modules/aframe-arrow-component/index.js"></script>
+<script src="node_modules/aframe-axes-helper-component/index.js"></script>
 ```
 or use with favorite bundler.
 ```
-import "aframe-arrow-component";
+import "aframe-axes-helper-component";
 ```
