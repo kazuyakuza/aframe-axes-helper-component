@@ -3,7 +3,7 @@ THREE.AxesHelper class binding for [a-frame](https://aframe.io/).
 ## Usage
 Add following script tag after a-frame script.
 ```
-<script src="http://unpkg.com/aframe-axes-helper-component/"></script>
+<script src="http://unpkg.com/aframe-axes-helper-component"></script>
 ```
 or, to use npm, install first.
 ```
